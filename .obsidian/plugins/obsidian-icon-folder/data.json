@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiFolder",
-      "LiBookOpen",
-      "LiPenBox",
-      "LiHome",
-      "LiUniversity"
+      "LiCalculator",
+      "LiCode",
+      "LiBox",
+      "LiNetwork",
+      "LiGamepad"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,5 +38,10 @@
   "02 - Academic Knowledge": "LiUniversity",
   "01 - MOCs": "LiHome",
   "00 - New Notes": "LiPenBox",
-  "01 - MOCs/KU-CS MOC.md": "LiBookOpen"
+  "01 - MOCs/KU-CS MOC.md": "LiBookOpen",
+  "02 - Academic Knowledge/3-1/BusData": "LiBriefcaseBusiness",
+  "02 - Academic Knowledge/3-1/Networking": "LiNetwork",
+  "02 - Academic Knowledge/3-1/SA": "LiBox",
+  "02 - Academic Knowledge/3-1/ToC": "LiCalculator",
+  "02 - Academic Knowledge/3-1/Software Dev": "LiCode"
 }

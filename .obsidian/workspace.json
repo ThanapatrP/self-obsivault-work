@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - New Notes/Trailhead.md",
+                "file": "02 - Academic Knowledge/3-1/Networking/@ Computer Networking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trailhead"
+              "title": "@ Computer Networking"
             }
           }
         ]
@@ -33,7 +33,6 @@
       {
         "id": "132f75992209edb7",
         "type": "tabs",
-        "dimension": 70.40082219938334,
         "children": [
           {
             "id": "bff394cadeea5c8a",
@@ -73,23 +72,6 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
-            }
-          }
-        ]
-      },
-      {
-        "id": "00b30c7911ad4ca8",
-        "type": "tabs",
-        "dimension": 29.599177800616648,
-        "children": [
-          {
-            "id": "543c571f32c678d7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ]
@@ -172,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - New Notes/Trailhead.md",
+                "file": "02 - Academic Knowledge/3-1/Networking/@ Computer Networking.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Trailhead"
+              "title": "Outline of @ Computer Networking"
             }
           },
           {
@@ -213,29 +195,34 @@
   },
   "active": "5b3bc5f85eba7908",
   "lastOpenFiles": [
-    "00 - New Notes/Saleforce.md",
-    "00 - New Notes/Trailhead.md",
+    "00 - New Notes/Network Protocols.md",
+    "02 - Academic Knowledge/3-1/Networking/@ Computer Networking.md",
+    "00 - New Notes/Hosts.md",
+    "04 - Assets/Pasted image 20260629224458.png",
+    "00 - New Notes/Network Components.md",
+    "02 - Academic Knowledge/3-1/Software Dev/@ Software Dev.md",
+    "02 - Academic Knowledge/3-1/ToC/@ ToC.md",
+    "02 - Academic Knowledge/3-1/SA/@ SA.md",
+    "02 - Academic Knowledge/3-1/BusData/@ Business Data.md",
+    "01 - MOCs/KU-CS MOC.md",
+    "02 - Academic Knowledge/3-1/BusData/Saleforce.md",
+    "02 - Academic Knowledge/3-1/BusData/Terms.md",
+    "02 - Academic Knowledge/3-1/BusData/Trailhead.md",
     "02 - Academic Knowledge/3-1/BusData/CRM.md",
-    "00 - New Notes/Service Now.md",
+    "02 - Academic Knowledge/3-1/BusData/Service Now.md",
     "02 - Academic Knowledge/3-1/BusData/ERP.md",
     "02 - Academic Knowledge/3-1/BusData/BI.md",
-    "02 - Academic Knowledge/3-1/BusData/Business Data.md",
     "04 - Assets/Pasted image 20260629090712.png",
-    "01 - MOCs/KU-CS MOC.md",
     "00 - New Notes/Nisit DeeDen Meeting 25-6-26.md",
     "04 - Projects",
-    "02 - Academic Knowledge/3-1/SA/SA.md",
     "02 - Academic Knowledge/3-1/EngGame",
     "02 - Academic Knowledge/3-1/ToC",
-    "02 - Academic Knowledge/3-1/SoftDev",
+    "02 - Academic Knowledge/3-1/Software Dev",
     "02 - Academic Knowledge/3-1/Networking",
     "02 - Academic Knowledge/3-1/BusData",
     "02 - Academic Knowledge/3-1",
     "02 - Academic Knowledge/3-1/DataBus",
     "02 - Academic Knowledge/3-1/SA",
-    "02 - Academic Knowledge/3-1/Networking/Computer Networking.md",
-    "02 - Academic Knowledge/3-1/ToC/ToC.md",
-    "02 - Academic Knowledge/3-1/SoftDev/Software Dev.md",
     "03 - Self Knowledge",
     "Welcome.md"
   ]
