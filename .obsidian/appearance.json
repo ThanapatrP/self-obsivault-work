@@ -1,1 +1,6 @@
-{}
+{
+  "cssTheme": "Baseline",
+  "enabledCssSnippets": [
+    "Colored Sidebar (OG)"
+  ]
+}
