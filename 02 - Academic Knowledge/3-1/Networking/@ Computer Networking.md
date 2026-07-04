@@ -7,7 +7,7 @@
 ![[Pasted image 20260629224458.png]]
 ![[Pasted image 20260629225253.png]]
 # What is [[Network Protocols]] (short answer)
--> a strict set of **rules**, **format**, and **procedures** that allows [[Hosts]] to communicate to eachother
+-> a strict set of **rules**, **format**, and **procedures** that allows [[Hosts]] to communicate to each other
 
 ---
 - [[Network Components]]
